@@ -24,7 +24,6 @@ public class Associate extends Employee
 		}
 		return payEarned;
 	}
-	
 	public String toString()
 	{
 		return(super.toString()

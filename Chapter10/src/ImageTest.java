@@ -7,5 +7,4 @@ public class ImageTest {
 		// TODO Auto-generated method stub
 		ImageIcon sandssans = new ImageIcon("sandssans.jpg");
 	}
-
 }

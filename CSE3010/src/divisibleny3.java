@@ -35,7 +35,6 @@ public class divisibleny3 {
 			}
 		});
 	}
-
 	/**
 	 * Create the application.
 	 */

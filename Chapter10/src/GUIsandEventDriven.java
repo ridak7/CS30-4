@@ -35,7 +35,8 @@ public class GUIsandEventDriven {
 	/**
 	 * Create the application.
 	 */
-	public GUIsandEventDriven() {
+	public GUIsandEventDriven()
+	{
 		initialize();
 	}
 

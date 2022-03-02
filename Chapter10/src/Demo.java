@@ -35,7 +35,6 @@ public class Demo {
 			}
 		});
 	}
-
 	/**
 	 * Create the application.
 	 */

@@ -31,7 +31,6 @@ public class metricconversion {
 			}
 		});
 	}
-
 	/**
 	 * Create the application.
 	 */

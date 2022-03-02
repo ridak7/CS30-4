@@ -34,7 +34,7 @@ public class jcomboboxdemo {
 				}
 			}
 		});
-	}
+	} 
 
 	/**
 	 * Create the application.

@@ -37,7 +37,8 @@ public class breakerplate {
 	/**
 	 * Create the application.
 	 */
-	public breakerplate() {
+	public breakerplate()
+	{
 		initialize();
 	}
 
