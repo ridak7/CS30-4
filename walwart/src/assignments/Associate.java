@@ -23,7 +23,7 @@ public class Associate extends Employee
 			payEarned = hours * hourlyPayRate;
 		}
 		return payEarned;
-	}
+	} 
 	public String toString()
 	{
 		return(super.toString()

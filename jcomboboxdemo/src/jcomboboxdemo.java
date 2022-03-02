@@ -19,7 +19,6 @@ public class jcomboboxdemo {
 	private JFrame frame;
 	private JTextField txtFirstName;
 	private JTextField txtLastName;
-
 	/**
 	 * Launch the application.
 	 */

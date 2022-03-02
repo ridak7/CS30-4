@@ -20,7 +20,7 @@ public class divisibleny3 {
 	private JLabel DisplayL;
 	private JTextField BackgroundTF;
 
-	/**
+	/** 
 	 * Launch the application.
 	 */
 	public static void main(String[] args) {

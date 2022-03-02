@@ -17,7 +17,7 @@ public class breakerplate {
 
 	private JFrame frame;
 	
-	
+	 
 	/**
 	 * Launch the application.
 	 */

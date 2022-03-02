@@ -8,7 +8,7 @@ public class Manager extends Employee
 	{
 		super(fn, ln);
 		yearlySalary = sal;
-	}
+	} 
 	public double pay(double weeks)
 	{
 		double payEarned;

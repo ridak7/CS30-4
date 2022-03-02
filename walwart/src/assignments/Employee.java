@@ -13,7 +13,7 @@ public abstract class Employee
 	}
 	public String toString()//prints Employee object
 	{
-		return(firstName + " " + lastName);
+		return(firstName + " " + lastName); 
 	}
 	abstract double pay(double period);
 	//must change public class to public abstract class in order for it to work.
