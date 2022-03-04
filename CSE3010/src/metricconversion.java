@@ -25,7 +25,7 @@ public class metricconversion {
 				try {
 					metricconversion window = new metricconversion();
 					window.frame.setVisible(true);
-				} catch (Exception e) {
+				} catch (Exception e) { 
 					e.printStackTrace();
 				}
 			}

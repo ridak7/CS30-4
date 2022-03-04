@@ -6,7 +6,7 @@ public abstract class Employee
 	private String lastName;//declare last name
 	
 	public Employee(String fn, String ln)
-	{
+	{ 
 		firstName = fn;
 		lastName = ln;
 

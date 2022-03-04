@@ -8,7 +8,7 @@ public class Associate extends Employee
 	{
 		super(fn, ln);
 		hourlyPayRate = rates;
-	}
+	} 
 	
 	public double pay(double hours)
 	{

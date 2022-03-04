@@ -24,7 +24,7 @@ public class jcomboboxdemo {
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
-			public void run() {
+			public void run() { 
 				try {
 					jcomboboxdemo window = new jcomboboxdemo();
 					window.frame.setVisible(true);

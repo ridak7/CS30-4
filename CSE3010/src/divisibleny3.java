@@ -26,7 +26,7 @@ public class divisibleny3 {
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
-				try {
+				try { 
 					divisibleny3 window = new divisibleny3();
 					window.frame.setVisible(true);
 				} catch (Exception e) {
