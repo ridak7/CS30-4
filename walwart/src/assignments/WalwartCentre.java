@@ -14,7 +14,6 @@ public class WalwartCentre
         System.out.println(emp);
         pay = emp.pay(payR);
         System.out.println(money.format(pay));
-        
     }
     public static void main(String[] args) 
     {
