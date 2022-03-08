@@ -4,7 +4,7 @@ import java.text.NumberFormat;
 import java.util.Scanner;
 
 
-public class WalwartCentre
+public class WalwartCentre 
 {
     public static void payEmployee(Employee emp, double payR)
     {
@@ -16,7 +16,6 @@ public class WalwartCentre
         System.out.println(money.format(pay));
         
     }
-    
     public static void main(String[] args) 
     {
       Manager emp1 = new Manager("Diego", " Martin", 69420);  
@@ -56,7 +55,7 @@ public class WalwartCentre
             payR = input.nextDouble();
             payEmployee(emp, payR);
          }
-      }  
+      }
      }while(!action.equalsIgnoreCase("Q"));
     }
 
