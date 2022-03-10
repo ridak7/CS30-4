@@ -1,3 +1,5 @@
+						Get rid of this file when you are presenting your work
+
 import javax.swing.ImageIcon;
 
 public class ImageTest {
